@@ -1,5 +1,8 @@
 # Data-Visualisation-Challenge
 Creating a  Stunning Tableau Dashboard from the Airbnb Hotel Booking(Chicago &amp; New Orelans) dataset on which EDA was performed for the capstone project.
+
+Link to Tableau Dashboard: https://public.tableau.com/shared/S9W5Y5HKH?:display_count=n&:origin=viz_share_link
+
 Problem Statement:
 
 In the context of Airbnb operations, how can the utilisation of Tableau facilitate a comprehensive comparative examination between Chicago and New Orleans, two diverse urban environments?
