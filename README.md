@@ -1,4 +1,4 @@
-# Data-Visualisation-Challenge
+# Data-Visualisation-AirBNB hotel booking dataset
 Creating a  Stunning Tableau Dashboard from the Airbnb Hotel Booking(Chicago &amp; New Orelans) dataset on which EDA was performed for the capstone project.
 
 Link to Tableau Dashboard: https://public.tableau.com/views/AIRBNBDashboard_17096612945310/HomeChicago?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
